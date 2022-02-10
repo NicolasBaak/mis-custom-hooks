@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en HomeScrenn Debe de mostrarse correctamente 1`] = `
+Array [
+  <h1>
+    HomeScreen
+  </h1>,
+  <hr />,
+  <pre
+    className=""
+  >
+    {
+   "name": "Nicolas",
+   "email": "nicolas@correo.com"
+}
+  </pre>,
+  <button
+    className="btn btn-primary"
+    onClick={[Function]}
+  >
+    LogOut
+  </button>,
+]
+`;
